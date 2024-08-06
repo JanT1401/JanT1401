@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently leanring to master clean CSS animations ans JavaScript
-- 📫 How to reach me jan.thomas1401@gmail.com
+- 🌱 I’m currently leanring to master JavaScript and some backend
+- 📫 How to reach me: jan.thomas1401@gmail.com
