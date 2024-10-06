@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jan
+- 📅 I'm 16 years old.
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently leanring to master JavaScript and some backend
+- 🌱 I’m currently mastering Frontend Webdevelopment
 - 📫 How to reach me: jan.thomas1401@gmail.com
