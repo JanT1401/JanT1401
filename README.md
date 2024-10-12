@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jan
 - 📅 I'm 16 years old.
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently mastering Frontend Webdevelopment
+- 🌱 I’m currently mastering Frontend Webdevelopment & Webdesign
 - 📫 How to reach me: jan.thomas1401@gmail.com
 
 # 💻 Tech Stack:
